@@ -1746,7 +1746,7 @@ span:hover{
                 margin-left: -150px !important;
             }
         }
-        @media(min-width:530px){
+        @media(max-height:530px){
             li{
                 display: inline-block;
                 margin-left: 1px;

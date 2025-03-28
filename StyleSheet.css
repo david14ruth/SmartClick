@@ -2433,50 +2433,50 @@ html, body {
         height: 400px;
         position: relative;
     }
-   .image{
-        width :300px;
+    .image{
+        width :240px !important;
         height:350px;
-        margin-left: -30%; 
+        margin-left: -35% !important; 
         border-radius: 50%;
         margin-top: 30px;
         border: solid 3px rgb(15, 92, 15);
-        display: inline-block;
+        display: inline-block!important;
         position: absolute;
     }
     .image1{
-        width :300px;
+        width :240px !important;
         height:350px;
-        margin-left: -30%;
+        margin-left: -35% !important;
         border-radius: 50%;
         margin-top: 30px;
         border: solid 3px rgb(15, 92, 15);
-        display: inline-block;
+        display: inline-block!important;
         position: absolute;
     }
     .image2{
-        width :300px;
+        width :240px !important;
         height:350px;
-        margin-left: -30%; 
+        margin-left: -35% !important;
         border-radius: 50%;
         margin-top: 30px;
         border: solid 3px rgb(15, 92, 15);
-        display: inline-block;
+        display: inline-block!important;
         position: absolute;
     }
     
     .image3{
-        width :300px;
+        width :250px !important;
         height:350px;
-        margin-left: 4.5% !important; 
+        margin-left: 3.5% !important; 
         border-radius: 50%;
         margin-top: 10px;
         border: solid 3px rgb(15, 92, 15);
         display: inline-block;
     }
     .image4{
-        width :300px;
+        width :248px !important;
         height:350px;
-        margin-left: -87.5% !important; 
+        margin-left: -87%; 
         border-radius: 50%;
         margin-top: 10px;
         border: solid 3px rgb(15, 92, 15);
